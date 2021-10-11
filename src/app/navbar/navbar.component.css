@@ -1,0 +1,26 @@
+header {
+    height: 48px;
+    display: flex;
+    justify-content: space-between;
+	align-items: center;
+	align-content: center;
+    font-weight: bold;
+}
+
+#left, #right {
+    display: flex;
+    align-items: center;
+	align-content: center;
+}
+
+#left div, #right div {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#signup {
+    background-color: rgb(222, 235, 254);
+    color: rgb(117, 166, 233);
+    border: none;
+    
+}

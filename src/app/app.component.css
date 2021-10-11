@@ -1,0 +1,15 @@
+#first {
+    padding: 30px;
+    display: flex;
+	align-items: center;
+	align-content: center;
+}
+
+app-orders {
+    flex-grow: 2;
+}
+
+app-payment-summary {
+    flex-grow: 1;
+
+}
